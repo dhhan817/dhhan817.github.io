@@ -27,8 +27,8 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: true
-disqus_name: dhhan817 # replace by your username
-layout: default
+disqus_name: day11111s-pages # replace by your username
+layout: post
 comments: true
 # other options
 
