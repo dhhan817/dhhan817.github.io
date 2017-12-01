@@ -26,8 +26,11 @@ twitter: tryghost # replace by your username
 facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
+disqus: true
 disqus_name: dhhan817 # replace by your username
+layout: default
+comments: true
+# other options
 
 # Google Analytics
 #google_analytics: ''# replace by your GA id
