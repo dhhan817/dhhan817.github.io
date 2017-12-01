@@ -30,7 +30,7 @@ disqus: False
 disqus_name: dhhan817 # replace by your username
 
 # Google Analytics
-google_analytics: # replace by your GA id
+#google_analytics: ''# replace by your GA id
 
 # Permalinks
 permalink: /:title
