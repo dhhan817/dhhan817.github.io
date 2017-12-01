@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /dhhan817.github.io/
+baseurl: /
 
 # Website info
 title: Ghost
@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://dhhan817.github.io/dhhan817.github.io
+production_url: https://dhhan817.github.io/
 source_url: https://github.com/dhhan817/dhhan817.github.io/
 
 # Social info
@@ -70,9 +70,9 @@ lsi: False
 username: dhhan817
 repo: dhhan817.github.io
 branch: master
-relative_source: ../dhhan817.github.io
+relative_source: ../
 destination: ../gh-pages/
-production_url:  https://dhhan817.github.io/dhhan817.github.io
+production_url:  https://dhhan817.github.io/
 source_url:  https://github.com/dhhna817/dhhan817.github.io/
 
 exclude:
