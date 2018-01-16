@@ -1,8 +1,8 @@
 ## Jasper2
 
-[![Build Status](https://travis-ci.org/dhhan817/dhhan817.github.io.svg?branch=master)](https://travis-ci.org/dhhan817/dhhan817.github.io.svg?branch=master)
-[![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](https://travis-ci.org/dhhan817/dhhan817.github.io.svg?branch=master)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](https://travis-ci.org/dhhan817/dhhan817.github.io.svg?branch=master)
+[![Build Status](https://travis-ci.org/dhhan817/jasper2.svg?branch=master)](https://travis-ci.org/dhhan817/jasper2.svg?branch=master)
+[![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](https://travis-ci.org/dhhan817/jasper2.svg?branch=master)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](https://travis-ci.org/dhhan817/jasper2.svg?branch=master)
 
 This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
 *v2.1.7* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
