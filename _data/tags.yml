@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+machine-learning:
+  name: machine-learning
+  description: From Andrew Ng's Coursera lecture 'Machine Learning'
+  cover: assets/images/machine_learning.png
