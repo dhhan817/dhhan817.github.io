@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/jasper2/</title>
+   
+   <link>/jasper2/</link>
+   <description>Journey of trifling with some data</description>
+   <language>ko</language>
+   
+   <title>
+   <![CDATA[ day11111's pages ]]>
+   </title>
+   <description>
+   <![CDATA[ Journey of trifling with some data ]]>
+   </description>
+   <link>/jasper2/</link>
+   <image>
+   <url>/jasper2/assets/images/favicon.png</url>
+   <title>day11111's pages</title>
+   <link>/jasper2/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/jasper2/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>TEST</title>
+	  <link>/jasper2/test</link>
+		
+				
+		
+				
+						<author>dhhan817</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-05-03T13:00:00+00:00</pubDate>
+	  <guid>/jasper2/test</guid>
+	  <description><![CDATA[
+	     <p>Hello! It is a test!</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
